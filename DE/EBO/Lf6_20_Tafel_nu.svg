@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="457px" height="390px" viewBox="0 0 457 390" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <title>Slice 1</title>
+    <description>Created with Sketch (http://www.bohemiancoding.com/sketch)</description>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="Lf6_120_Tafel_nu" sketch:type="MSLayerGroup" transform="translate(9.000000, 5.000000)">
+            <g id="layer5" transform="translate(0.000000, 0.390010)" sketch:type="MSShapeGroup">
+                <path d="M-0.5,-0.32 L219.5,375.17999 L439.5,-0.32 L-0.5,-0.32 Z" id="path4624" stroke="#000000" stroke-width="9" fill="#FFFFFF"></path>
+                <path d="M32.201488,18.73635 L219.5,338.42084 L406.79851,18.73635 L32.201488,18.73635 Z" id="path3780" fill="#D97100"></path>
+            </g>
+            <g id="layer6" transform="translate(181.500000, 42.390010)" fill="#000000" sketch:type="MSShapeGroup">
+                <path d="M76.42193,181.179996 L0.82653,181.179996 L0.82653,158.540699 L49.94057,64.608808 C52.1706,60.34382 54.88474,55.88409 54.88474,51.38661 L54.88474,38.46374 C54.88474,28.79909 47.65086,22.85533 38.35805,22.98181 C30.91129,23.08317 22.66004,28.62132 22.66004,38.20648 L22.66004,52.73583 L0.29417,52.73583 L0.29417,39.78347 C0.29417,15.16831 16.62156,-0.29632 39.12646,-0.29632 C59.90916,-0.29632 77.17193,14.49555 77.17193,38.96965 L77.17193,54.35487 C77.17193,62.01631 72.52793,69.736895 69.00345,76.4818 L26.04218,158.698101 L76.42193,158.698101 L76.42193,181.179996" id="path3774"></path>
+            </g>
+        </g>
+    </g>
+</svg>
