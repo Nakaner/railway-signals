@@ -1,14 +1,69 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg width="200px" height="178px" viewBox="0 0 200 178" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
-    <title>Slice 1</title>
-    <description>Created with Sketch (http://www.bohemiancoding.com/sketch)</description>
-    <defs></defs>
-    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
-        <g id="Zs3_60_Tafel" sketch:type="MSLayerGroup" transform="translate(5.000000, 5.000000)" stroke="#FFFFFF" stroke-width="10.1550102" fill="#000000">
-            <g id="layer1" transform="translate(0.000000, 0.317820)" sketch:type="MSShapeGroup">
-                <path d="M189.43777,164.2847 L0.0775052,164.2847 L95.06521,-0.23886 L189.92249,164.0587" id="path3047"></path>
-            </g>
-        </g>
-        <path d="M100.677785,65 C90.549838,65 83.1773843,71.7958702 83.0142219,82.6366126 C83.0095343,82.637067 83.0000228,82.6366126 83.0000228,82.6366126 L83.0000228,91.8951242 C83.0000228,95.9855728 84.7864353,100.813754 88.1910054,104.121471 C84.7864125,107.457589 83,112.086967 83,116.177416 L83.0141991,130.363387 C83.0250305,141.202435 90.551399,148 100.677762,148 C110.135966,148 118,141.354565 118,130.363387 L118,116.177416 C118,112.086967 115.820222,106.782733 112.803611,104.113605 C116.463829,100.560868 118,95.8865896 118,91.796141 L118,82.6366126 C118,71.6454438 110.135966,65 100.677762,65 L100.677785,65 Z M100.318508,75.0009037 C104.636551,74.9430397 108,77.6676613 108,82.0892445 L108,91.4632135 C108,95.2308218 105.215835,98.998949 100.507278,98.9999998 C95.7913613,99.0009257 92.9884932,95.234326 93.0000355,91.4632135 L93.0290771,81.9735165 C93.0425059,77.5883182 96.8582599,75.0472736 100.318508,75.0009037 L100.318508,75.0009037 Z M100.507268,109 C104.867276,109 108,112.403576 108,116.332769 L108,130.143051 C108,134.428492 104.636546,137.055202 100.318498,136.99912 C96.8582451,136.954177 93.037923,134.505402 93.0290572,130.255216 L93.0000156,116.332769 C92.991791,112.380183 96.24254,109 100.507268,109 L100.507268,109 Z" id="path3830-7" fill="#FFFFFF" sketch:type="MSShapeGroup"></path>
-    </g>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:sketch="http://www.bohemiancoding.com/sketch/ns"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="200"
+   height="174.67999"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.5 r10040"
+   sodipodi:docname="Zs3_60_Tafel.svg">
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="3.959798"
+     inkscape:cx="90.442023"
+     inkscape:cy="95.567543"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1028"
+     inkscape:window-x="1366"
+     inkscape:window-y="30"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Ebene 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-877.68218)">
+    <path
+       style="color:#000000;fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-width:10.15501022;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       d="m 194.43777,1047.2847 -189.3602648,0 94.9877048,-164.52356 94.85728,164.29756"
+       id="path3047"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccc" />
+    <path
+       style="fill:#ffffff;fill-rule:evenodd;stroke:none"
+       inkscape:connector-curvature="0"
+       sketch:type="MSShapeGroup"
+       id="path3830-7"
+       d="m 100.67779,939.36217 c -10.127952,0 -17.500406,6.79587 -17.663568,17.63661 -0.0047,4.6e-4 -0.0142,0 -0.0142,0 l 0,9.25851 c 0,4.09045 1.786412,8.91863 5.190982,12.22635 C 84.786412,981.81976 83,986.44914 83,990.53959 l 0.0142,14.18601 c 0.01083,10.839 7.537199,17.6366 17.66356,17.6366 9.45821,0 17.32224,-6.6455 17.32224,-17.6366 l 0,-14.18601 c 0,-4.09045 -2.17978,-9.39469 -5.19639,-12.06381 C 116.46383,974.92304 118,970.24876 118,966.15831 l 0,-9.15953 c 0,-10.99117 -7.86403,-17.63661 -17.32224,-17.63661 l 3e-5,0 z m -0.35928,10.0009 c 4.31804,-0.0579 7.68149,2.66676 7.68149,7.08835 l 0,9.37396 c 0,3.76761 -2.78416,7.53574 -7.49272,7.53679 -4.715919,9.3e-4 -7.518787,-3.76567 -7.507245,-7.53679 l 0.02904,-9.48969 c 0.01343,-4.3852 3.829183,-6.92625 7.289435,-6.97262 l 0,0 z m 0.18876,33.9991 c 4.36001,0 7.49273,3.40358 7.49273,7.33277 l 0,13.81026 c 0,4.2855 -3.36345,6.9122 -7.6815,6.8561 -3.460255,-0.045 -7.280577,-2.4937 -7.289443,-6.7439 l -0.02904,-13.92246 c -0.0082,-3.95259 3.242523,-7.33277 7.507253,-7.33277 l 0,0 z" />
+  </g>
 </svg>

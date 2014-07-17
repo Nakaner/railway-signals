@@ -1,14 +1,71 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg width="200px" height="178px" viewBox="0 0 200 178" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
-    <title>Slice 1</title>
-    <description>Created with Sketch (http://www.bohemiancoding.com/sketch)</description>
-    <defs></defs>
-    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
-        <g id="Zs3_60_Tafel" sketch:type="MSLayerGroup" transform="translate(5.000000, 5.000000)" stroke="#FFFFFF" stroke-width="10.1550102" fill="#000000">
-            <g id="layer1" transform="translate(0.000000, 0.317820)" sketch:type="MSShapeGroup">
-                <path d="M189.43777,164.2847 L0.0775052,164.2847 L95.06521,-0.23886 L189.92249,164.0587" id="path3047"></path>
-            </g>
-        </g>
-        <path d="M95.2941313,147.578949 L120,78.736842 L120,68 L80,68 L80,85.8947394 L92.9411737,85.8947394 L92.9411737,78.1052625 L106.352958,78.1052625 L81.647089,148 L95.2941313,147.578949 Z" id="path4665" fill="#FFFFFF" sketch:type="MSShapeGroup"></path>
-    </g>
+<svg
+   xmlns:sketch="http://www.bohemiancoding.com/sketch/ns"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="200.02216"
+   height="174.69576"
+   viewBox="0 0 200.02216 174.69576"
+   version="1.1"
+   id="svg2"
+   inkscape:version="0.48.5 r10040"
+   sodipodi:docname="Zs3_70_Tafel.svg">
+  <metadata
+     id="metadata17">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>Slice 1</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1366"
+     inkscape:window-height="716"
+     id="namedview15"
+     showgrid="false"
+     inkscape:zoom="1.3258427"
+     inkscape:cx="100.09331"
+     inkscape:cy="128.95735"
+     inkscape:window-x="0"
+     inkscape:window-y="30"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg2"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0" />
+  <title
+     id="title4">Slice 1</title>
+  <description
+     id="description6">Created with Sketch (http://www.bohemiancoding.com/sketch)</description>
+  <defs
+     id="defs8" />
+  <path
+     style="fill:#000000;fill-rule:evenodd;stroke:#ffffff;stroke-width:10.15499973;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+     inkscape:connector-curvature="0"
+     id="path3047"
+     d="m 194.43523,169.61078 -189.3602603,0 L 100.06267,5.0872204 194.91995,169.38478" />
+  <path
+     style="fill:#ffffff;fill-rule:evenodd;stroke:none"
+     inkscape:connector-curvature="0"
+     sketch:type="MSShapeGroup"
+     id="path4665"
+     d="m 95.291595,147.58721 24.705865,-68.842108 0,-10.736842 -39.999996,0 0,17.894739 12.941174,0 0,-7.789477 13.411782,0 -24.705867,69.894738 13.647042,-0.42105 z" />
 </svg>
