@@ -1,18 +1,90 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg width="218px" height="279px" viewBox="0 0 218 279" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
-    <title>Slice 1</title>
-    <description>Created with Sketch (http://www.bohemiancoding.com/sketch)</description>
-    <defs></defs>
-    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
-        <g id="Lf7_120_Tafel" sketch:type="MSLayerGroup" transform="translate(6.000000, 7.000000)">
-            <g id="layer5" transform="translate(0.000000, -0.009990)" stroke="#000000" stroke-width="12" fill="#FFFFFF" sketch:type="MSShapeGroup">
-                <rect id="rect4663" x="0" y="0" width="205.06096" height="265.6701"></rect>
-            </g>
-            <g id="layer6" transform="translate(64.000000, 41.990010)" fill="#000000" sketch:type="MSShapeGroup">
-                <g id="g3807" transform="translate(0.011049, -0.403379)">
-                    <path d="M76.13507,181.34082 L0.53967,181.34082 L0.53967,158.70152 L49.65371,64.7696344 C51.88374,60.5046464 54.59788,56.0449164 54.59788,51.5474364 L54.59788,38.624566 C54.59788,28.959916 47.364,23.016156 38.07119,23.142636 C30.62443,23.243996 22.37318,28.782146 22.37318,38.367306 L22.37318,52.8966564 L0.00731,52.8966564 L0.00731,39.944296 C0.00731,15.329136 16.3347,-0.135494 38.8396,-0.135494 C59.6223,-0.135494 76.88507,14.656376 76.88507,39.130476 L76.88507,54.5156964 C76.88507,62.1771364 72.24107,69.897721 68.71659,76.642626 L25.75532,158.85892 L76.13507,158.85892 L76.13507,181.34082" id="path3774"></path>
-                </g>
-            </g>
-        </g>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:sketch="http://www.bohemiancoding.com/sketch/ns"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="217.07001"
+   height="277.67001"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.5 r10040"
+   sodipodi:docname="Lf7_30_Tafel.svg">
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.4"
+     inkscape:cx="140.47299"
+     inkscape:cy="139.05966"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer6"
+     showgrid="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1028"
+     inkscape:window-x="1366"
+     inkscape:window-y="30"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Ebene 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-774.69217)"
+     style="display:inline" />
+  <g
+     inkscape:groupmode="layer"
+     id="layer5"
+     inkscape:label="schwarz"
+     transform="translate(0,102.99001)">
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:12;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="rect4663"
+       width="205.06096"
+       height="265.6701"
+       x="6"
+       y="-96.990112" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer6"
+     inkscape:label="Ziffer"
+     transform="translate(0,102.99001)">
+    <g
+       id="layer6-4"
+       transform="translate(70,-55.329984)"
+       sketch:type="MSShapeGroup"
+       style="fill:#000000;stroke:none">
+      <g
+         id="g3807"
+         transform="translate(0.011049,-0.403379)">
+        <path
+           d="m 76.13507,181.34082 -75.5954,0 0,-22.6393 49.11404,-93.931886 c 2.23003,-4.264988 4.94417,-8.724718 4.94417,-13.222198 l 0,-12.92287 c 0,-9.66465 -7.23388,-15.60841 -16.52669,-15.48193 -7.44676,0.10136 -15.69801,5.63951 -15.69801,15.22467 l 0,14.52935 -22.36587,0 0,-12.95236 c 0,-24.61516 16.32739,-40.07979 38.83229,-40.07979 20.7827,0 38.04547,14.79187 38.04547,39.26597 l 0,15.38522 c 0,7.66144 -4.644,15.382025 -8.16848,22.12693 l -42.96127,82.216294 50.37975,0 0,22.4819"
+           id="path3774"
+           inkscape:connector-curvature="0" />
+      </g>
     </g>
+  </g>
 </svg>
