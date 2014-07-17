@@ -12,9 +12,9 @@
    id="svg3055"
    version="1.1"
    inkscape:version="0.48.5 r10040"
-   width="1024"
-   height="680"
-   sodipodi:docname="bue4-pfeiftafel.jpg">
+   width="161.28134"
+   height="263.5376"
+   sodipodi:docname="Bue4_DS301.svg">
   <metadata
      id="metadata3061">
     <rdf:RDF>
@@ -42,23 +42,27 @@
      inkscape:window-height="1028"
      id="namedview3057"
      showgrid="false"
-     inkscape:zoom="1.7636075"
-     inkscape:cx="698.19861"
-     inkscape:cy="329.64008"
+     inkscape:zoom="0.31176471"
+     inkscape:cx="658.48737"
+     inkscape:cy="259.17373"
      inkscape:window-x="1366"
      inkscape:window-y="30"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg3055" />
+     inkscape:current-layer="svg3055"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0" />
   <rect
      style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:2.47900009;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
      id="rect3836"
      width="158.80165"
      height="261.06158"
-     x="678.98792"
-     y="271.57062" />
+     x="1.2395438"
+     y="1.236482" />
   <path
      style="fill:#000000;fill-opacity:1;stroke:none"
-     d="m 728.85693,308.56818 0,0.0312 -28.03125,0 0,193.9375 30.625,0 0,-80.3125 22.25,0 c 69.56554,-3.40412 63.80207,-110.61375 0.21875,-113.65625 l -0.21875,0 -24.84375,0 z m 2.59375,35.09375 22.25,0 c 27.46462,0 27.97491,47.09375 0,47.09375 l -22.25,0 0,-47.09375 z"
+     d="m 51.108559,38.234048 0,0.0312 -28.03125,0 0,193.937502 30.625,0 0,-80.3125 22.25,0 C 145.51785,148.48613 139.75438,41.276498 76.171059,38.233998 l -0.21875,0 -24.84375,0 z m 2.59375,35.09375 22.25,0 c 27.464621,0 27.974911,47.093752 0,47.093752 l -22.25,0 0,-47.093752 z"
      id="rect3941"
      inkscape:connector-curvature="0" />
 </svg>
