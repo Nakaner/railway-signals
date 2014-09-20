@@ -13,14 +13,15 @@ country or signal system abbrevation for international signal system
 └─ type of railway or operator
 
 Example:
-    .
-    ├– DE (country code)
-    │  ├– EBO (Eisenbahn-Betriebsordnung, Railway Operating Act)
-    │  ├– BoStab (Betriebsordnung Straßenbahnen, Tram Operating Act)
-    │  └– AVG (special signals which are valid in addition to EBO signals at 
-    │        railway lines of AVG company)
-    ├– another country
-    …
+```
+ .
+ ├– DE (country code)
+ │  ├– EBO (Eisenbahn-Betriebsordnung, Railway Operating Act)
+ │  ├– BoStab (Betriebsordnung Straßenbahnen, Tram Operating Act)
+ │  └– AVG (special signals which are valid in addition to EBO signals at 
+ │        railway lines of AVG company)
+ ├– another country
+ …
 
 
 Contributing
