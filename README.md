@@ -22,7 +22,7 @@ Example:
  │        railway lines of AVG company)
  ├– another country
  …
-
+```
 
 Contributing
 ------------
