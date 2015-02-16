@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   version="1.1"
+   id="svg2"
+   height="111.78513"
+   width="163.92969">
+  <defs
+     id="defs4" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     style="display:inline"
+     transform="translate(-34.285156,-945.94557)"
+     id="layer1">
+    <path
+       id="rect4593"
+       d="m 76.970703,945.94557 37.802737,38.12696 34.59375,-38.12696 -23.65235,0 -18.92968,0 -29.814457,0 z m 37.802737,38.12696 -16.955081,18.68747 17.765621,17.918 16.95508,-18.6875 -17.76562,-17.91797 z m 17.76562,17.91797 43.65625,44.0293 22.01953,-44.1816 -23.23632,-46.62114 -42.43946,46.77344 z m -16.95508,18.6875 -33.621089,37.0527 24.822269,0 18.92968,0 26.60743,0 -36.73829,-37.0527 z m -17.765621,-17.918 -42.585937,-42.95115 -20.947266,42.02935 22.822266,45.789 40.710937,-44.8672 z"
+       style="opacity:1;fill:#ffffff;fill-opacity:0.37556565;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <path
+       id="rect4599"
+       d="m 62.142578,945.94557 -6.910156,13.86328 97.089848,97.92185 18.03515,0 5.83789,-11.7109 -99.224607,-100.07423 -14.828125,0 z"
+       style="opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <path
+       id="rect4601"
+       d="m 149.36719,945.94557 -92.259768,101.68163 5.035156,10.1035 19.820313,0 93.015629,-102.51364 -4.6211,-9.27149 -20.99023,0 z"
+       style="opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+  </g>
+  <g
+     style="display:inline"
+     transform="translate(-34.285156,-68.26339)"
+     id="layer5" />
+  <g
+     style="display:inline"
+     transform="translate(-34.285156,-68.26339)"
+     id="layer6" />
+</svg>
