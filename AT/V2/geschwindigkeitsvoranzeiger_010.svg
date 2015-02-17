@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   version="1.1"
+   id="svg3894"
+   height="195.97971"
+   width="226.80804">
+  <defs
+     id="defs3896" />
+  <metadata
+     id="metadata3899">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     transform="translate(30.181798,-878.73465)"
+     id="layer1">
+    <path
+       id="path3925"
+       d="m -19.777776,884.73465 103,177.99995 102.999996,-177.99995 z"
+       style="fill:#000000;fill-opacity:1;stroke:#ffff00;stroke-width:12;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <g
+       transform="translate(8.774025,0)"
+       id="text4437"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:144px;line-height:125%;font-family:'Swis721 BT';-inkscape-font-specification:'Swis721 BT';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffff00;fill-opacity:1;stroke:none">
+      <path
+         id="path3074"
+         style="font-weight:bold;font-family:OSP-DIN;-inkscape-font-specification:'OSP-DIN Bold';fill:#ffff00;fill-opacity:1"
+         d="m 72.41304,901.2204 14.414063,0 0,100.8281 -14.414063,0 0,-86.41404 -14.34375,14.41406 0,-14.41406 14.34375,-14.41406" />
+    </g>
+  </g>
+</svg>

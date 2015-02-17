@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   width="160"
+   height="160.00005"
+   id="svg2"
+   version="1.1">
+  <defs
+     id="defs3" />
+  <metadata
+     id="metadata4">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <path
+     style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+     d="M 80,0 160,80 80,160.00004 0,80 80,0 Z"
+     id="aussenWeiss" />
+  <path
+     style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+     d="m 80,8.00002 72,72 L 80,152.00004 8.0000001,80.00002 80,8.00002 Z"
+     id="aussenSchwarz" />
+  <path
+     style="fill:#198fd4;fill-opacity:1;fill-rule:nonzero;stroke:none"
+     d="m 80,18.00002 62,62 -62,62.00002 -62,-62.00002 62,-62 z"
+     id="blauGross" />
+  <path
+     id="weissGross"
+     d="m 50.75,56.25002 0,48 58,0 0,-48 -14,0 0,33.66316 -30,0 0,-33.66316 -14,0 z"
+     style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none" />
+</svg>
